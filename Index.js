@@ -20,7 +20,7 @@ const Alexa = require('alexa-sdk');
 const APP_ID = undefined;
 
 const SKILL_NAME = 'Space Facts';
-const GET_FACT_MESSAGE = "Here's a spicy meme i think you will like: ";
+const GET_FACT_MESSAGE = "Generating a random meme in 3... 2... 1... : ";
 const HELP_MESSAGE = 'You can say tell me a space fact, or, you can say exit... What can I help you with?';
 const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
