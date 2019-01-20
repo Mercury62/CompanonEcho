@@ -1,0 +1,50 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "joke time",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "GetNewFactIntent give me a meme",
+                        "GetNewFactIntent tell me a good meme",
+                        "GetNewFactIntent give me some juicy memes",
+                        "GetNewFactIntent give me some dank memes",
+                        "GetNewFactIntent give me a good meme",
+                        "GetNewFactIntent give me meme",
+                        "GetNewFactIntent tell me a meme",
+                        "GetNewFactIntent tell me meme",
+                        "GetNewFactIntent give me a high tier meme",
+                        "GetNewFactIntent give me a chungus",
+                        "GetNewFactIntent tell me a chungus",
+                        "GetNewFactIntent tell me chungus",
+                        "GetNewFactIntent a meme please",
+                        "GetNewFactIntent a meme"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
